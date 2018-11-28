@@ -12,5 +12,7 @@ This is a project for the open source
 
 Haha! I fucked your README!
 
+[Thinking material](index.md)
+
 
 **I want fish and chips!**
